@@ -1,3 +1,5 @@
+<img src="https://github.com/PawTopia/Mobile-Dev/assets/115199962/136c74f7-d841-447f-abe0-83237297efa5" height="90%" /> 
+
 Pawtopia
 ==================
 This is the repository for Pawtopia Machine Learning for Bangkit Academy H2 Capstone Project
